@@ -3,3 +3,4 @@
 ![Logos de lenguaje](/img/lenguajes.jfif)
 
 Para mas informacion visita ![google](https://google.cl)
+Estoy editando desde el navegador
